@@ -2,7 +2,6 @@ import React from 'react';
 // as 把BrowserRouter命名为Router
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
-import App from '../App'
 // import Home from '../components/home/home'
 import About from '../components/about/about'
 import Index from '../components/index/index'

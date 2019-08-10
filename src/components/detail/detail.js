@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 
 class About extends Component {
   render() {
+    console.log(this.params)
     return(
       <div className="detail">
         <header className="detail-header">
